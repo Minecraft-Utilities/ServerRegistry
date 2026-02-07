@@ -1,5 +1,6 @@
 {
   "serverName": "WildNetwork",
   "hostname": "wildnetwork.net",
+  "platform": "java",
   "wildcardHostnames": ["*.wildnetwork.net"]
 }
