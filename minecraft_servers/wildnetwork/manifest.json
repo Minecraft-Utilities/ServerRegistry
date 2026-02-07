@@ -1,0 +1,5 @@
+{
+  "serverName": "WildNetwork",
+  "hostname": "wildnetwork.net",
+  "wildcardHostnames": ["*.wildnetwork.net"]
+}
