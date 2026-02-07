@@ -1,0 +1,7 @@
+{
+  "serverId": "aetheria",
+  "displayName": "Aetheria",
+  "hostnames": ["aetheria.cc"],
+  "wildcardHostnames": ["*.aetheria.cc"],
+  "platform": "java"
+}
