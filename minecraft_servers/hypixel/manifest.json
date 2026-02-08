@@ -1,0 +1,7 @@
+{
+  "serverId": "hypixel",
+  "displayName": "Hypixel WildNetwork",
+  "hostnames": ["mc.hypixel.net"],
+  "wildcardHostnames": ["*.hypixel.net"],
+  "platform": "java"
+}
